@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio repos\PokerMonServer\PokerMonServer\bin\Debug\netcoreapp3.1\PokerMonServer.exe
+D:\Documents\Visual Studio repos\PokerMonServer\PokerMonServer\bin\Debug\netcoreapp3.1\PokerMonServer.deps.json
+D:\Documents\Visual Studio repos\PokerMonServer\PokerMonServer\bin\Debug\netcoreapp3.1\PokerMonServer.runtimeconfig.json
+D:\Documents\Visual Studio repos\PokerMonServer\PokerMonServer\bin\Debug\netcoreapp3.1\PokerMonServer.runtimeconfig.dev.json
+D:\Documents\Visual Studio repos\PokerMonServer\PokerMonServer\bin\Debug\netcoreapp3.1\PokerMonServer.dll
+D:\Documents\Visual Studio repos\PokerMonServer\PokerMonServer\bin\Debug\netcoreapp3.1\PokerMonServer.pdb
+D:\Documents\Visual Studio repos\PokerMonServer\PokerMonServer\obj\Debug\netcoreapp3.1\PokerMonServer.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio repos\PokerMonServer\PokerMonServer\obj\Debug\netcoreapp3.1\PokerMonServer.AssemblyInfo.cs
+D:\Documents\Visual Studio repos\PokerMonServer\PokerMonServer\obj\Debug\netcoreapp3.1\PokerMonServer.dll
+D:\Documents\Visual Studio repos\PokerMonServer\PokerMonServer\obj\Debug\netcoreapp3.1\PokerMonServer.pdb
+D:\Documents\Visual Studio repos\PokerMonServer\PokerMonServer\obj\Debug\netcoreapp3.1\PokerMonServer.csprojAssemblyReference.cache
